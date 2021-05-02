@@ -1,8 +1,8 @@
 # TechnOptic_Project_357
-
+<h3>Demo </h3>
 
 ![alt text](https://github.com/SanaJallouli/TechnOptic_Project_357/blob/main/gif_demo.gif)
-<h3>Demo </h3>
+
 
 
 
